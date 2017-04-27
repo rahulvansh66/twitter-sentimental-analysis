@@ -1,0 +1,13 @@
+> This python code will to fetch data from twitter, and give you sentimental analysis, some analytical bar-graphs and pie-graphs also :)
+
+> Run my_twitter_Code.py
+
+> Python modules that will be required to run code:
+tweepy
+textblob
+csv
+pygal
+wordcloud
+jason
+pandas
+matplotlib
